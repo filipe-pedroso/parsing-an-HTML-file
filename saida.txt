@@ -1,0 +1,6 @@
+SAÍDA ESPERADA:
+Arquivo: styles.css | Tamanho: 1024 bytes
+Arquivo: logo.png | Tamanho: 5000 bytes
+Arquivo: script.js | Tamanho: 2048 bytes
+<security entity="https://letsencrypt.org/"/>
+IP da entidade certificadora: 2606:4700:3032::6815:49b5
